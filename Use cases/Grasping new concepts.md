@@ -75,7 +75,7 @@ Below, Bing Chat Enterprise (precise) was asked to explain _photosynthesis_.
 
 ## Walkthrough
 
-### Step 1: Identify the Ccallenging Concept
+### Step 1: Identify the Challenging Concept
 
 Select a challenging concept from a course textbook or any academic material that you find difficult to grasp.
 

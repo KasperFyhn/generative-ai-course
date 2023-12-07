@@ -1,7 +1,7 @@
 # Contextual information
 
 ## Importance of context
-Providing context sets the stage and guides the GAI towards a more accurate and relevant response that suits your needs.
+Providing context sets the stage and guides the GAI towards a more accurate and relevant response that suits your needs. Providing context is part of _pre-prompting_.
 
 When prompting a GAI, you likely have a sense of what would constitute a successful response. Context helps the GAI generate such a response.
 

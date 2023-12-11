@@ -26,7 +26,7 @@ Clarity in output formatting instructions ensures that the GAI delivers response
 Consider the following aspects when instructing the GAI on output formatting:
 - Text structure (paragraphs, bullet points, lists)
 - Inclusion of headers or subheadings
-- Formatting for code or technical content
+- Formatting for code or technical content (e.g., JSON, CSV or XML)
 
 Be explicit in your formatting instructions to receive responses that match your presentation expectations.
 

@@ -3,7 +3,7 @@
 Generative AI offers a valuable resource when brainstorming about anything. In this session, we'll delve into how generative AI can be a creative partner, sparking ideas, and contributing to a rich brainstorming session.
 
 ## Use-case
-When faced with the task of brainstorming ideas for a project, essay, or research topic, it can be challenging to kickstart the creative process. Generative AI serves as a dynamic brainstorming partner, capable of generating diverse ideas, refining concepts, and providing fresh perspectives.
+When faced with the task of brainstorming ideas for a project, essay, or research topic, it can be challenging to kickstart the creative process. Generative AI serves as a dynamic brainstorming partner, capable of generating diverse ideas and providing fresh perspectives.
 
 Imagine having an AI companion that tirelessly suggests ideas, helps you explore different angles, and sparks creativity without the constraints of fatigue or time.
 
@@ -80,7 +80,6 @@ By integrating generative AI into your brainstorming process, you open doors to 
 ### Cons
 - **Dependency Risk:** Over-reliance on AI may limit independent creative thinking.
 - **Quality Assessment:** Not all generated ideas may be feasible, suitable or appropriate.
-- **Ethical Considerations:** AI-generated content raises questions about the authenticity of creative output.
 
 ## Practical Exercises
 Engage with generative AI through practical exercises to enhance your brainstorming skills.

@@ -61,5 +61,3 @@ Ask the AI to identify and correct grammatical errors in a piece of writing. Com
 
 ### Exercise 3: Style Enhancement
 Seek feedback on writing style and tone. Implement the suggested style modifications and evaluate their impact on the overall tone of the text.
-
-By integrating generative AI into your writing feedback process, you harness a valuable tool for refining your written communication skills. Remember to balance AI assistance with traditional editing practices and your own critical evaluation.

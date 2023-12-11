@@ -9,7 +9,7 @@ Generative AI can aid in breaking down complex ideas into digestible pieces, mak
 
 An AI can serve as a tutor who does not tire from rephrasing explanations and does not lose patience.
 
-Below, Bing Chat Enterprise (precise) was asked to explain _photosynthesis_.
+Below, an I was asked to explain _photosynthesis_.
 
   **Prompt**: "Explain the concept of photosynthesis in simple terms."
 
@@ -105,7 +105,6 @@ By mastering the skill of using generative AI for understanding scientific conce
 ### Cons
 - **Simplification risk:** Information may be oversimplified, lacking depth.
 - **Dependence:** Over-reliance on AI may hinder independent critical thinking.
-- **Ethical considerations:** AI-generated content might raise questions about academic integrity.
 
 ## Practical Exercises
 Engage with generative AI through practical exercises to reinforce your learning.

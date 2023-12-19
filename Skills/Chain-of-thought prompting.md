@@ -1,9 +1,6 @@
 # Chain-of-Thought Prompting
 
-TODO: Not really happy with this.
-
-## Unlocking Deeper Insights with Chain-of-Thought Prompting
-Chain-of-thought prompting, also known as step-by-step reasoning, is a powerful technique for guiding a GAI through a logical sequence of thought. By explicitly structuring your prompts to follow a step-by-step approach, you can unravel complex topics and extract more in-depth insights.
+Chain-of-thought prompting, also known as step-by-step reasoning, is a powerful technique for guiding a GAI through a logical sequence of thought. By explicitly structuring your prompts to follow a step-by-step approach, you can help the GAI and yourself break down a problem into manageable pieces.
 
 Chain-of-thought prompts are most effective when they lead the GAI through a logical progression of ideas.
 

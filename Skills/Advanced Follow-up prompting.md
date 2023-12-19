@@ -1,6 +1,5 @@
 # Advanced Follow-Up Prompting
 
-## Importance of Advanced Follow-Up Prompting
 Mastering advanced follow-up prompting is essential for refining, expanding, and elevating the quality of interactions with a GAI. Going beyond initial prompts, employing strategies like requesting examples, exploring diverse perspectives, making comparisons and contrasts, and addressing limitations enhances the precision and relevance of the information obtained.
 
 ## Examples

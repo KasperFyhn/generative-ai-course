@@ -1,13 +1,13 @@
-# Get Help During Your Thesis
+# Get Help During YOur Thesis
 
-Generative AI can be a supportive tool for students navigating the challenges of thesis writing. In this module, we'll explore how generative AI can assist you in various aspects of your thesis, offering guidance, insights, and practical tips to enhance your academic writing experience.
+Generative AI can be a supportive tool in large projects, e.g. a semester project or a thesis. This module shows how generative AI can assist you in various aspects of a project, offering guidance, insights, and practical tips to enhance your academic writing experience.
 
 ## Use-case
 When working on your thesis, you might encounter difficulties in structuring your content, refining your arguments, or expressing complex ideas clearly. Generative AI serves as a virtual thesis advisor, providing assistance with writing, organization, and content development.
 
 Imagine having an AI companion that can offer constructive suggestions, help refine your writing style, and provide insights to elevate the quality of your thesis.
 
-Below, an AI was asked to provide guidance on structuring a thesis introduction.
+### Example
 
   **Prompt**: "Offer guidance on structuring the introduction of a thesis."
 
@@ -44,10 +44,6 @@ Below, an AI was asked to provide guidance on structuring a thesis introduction.
 
 >Sure, let's say your thesis is on renewable energy. Contextualize the problem by discussing the global shift toward sustainable practices, the environmental challenges posed by traditional energy sources, and the increasing need for innovative solutions. This sets the stage for your specific research focus within the broader context.
 
-**Follow-up prompt:** "How can the AI assist in refining arguments in the thesis body?"
-
->The AI can help refine arguments by providing suggestions for stronger evidence, clearer transitions between points, and ensuring logical coherence. You can prompt the AI with specific sections or arguments, seeking guidance on how to strengthen your thesis body.
-
 **Follow-up prompt:** "Any tips for effectively summarizing research findings in the conclusion?"
 
 >Certainly! When summarizing research findings in the conclusion, focus on:
@@ -64,13 +60,13 @@ Below, an AI was asked to provide guidance on structuring a thesis introduction.
 
 ## Walkthrough
 
-### Step 1: Identify Thesis Needs
+### Step 1: Identify Challenges
 
 Assess the specific challenges or areas where you need assistance in your thesis writing process. It could be structuring, refining arguments, maintaining a consistent writing style, or any other aspect.
 
 ### Step 2: Create Your Prompt
 
-Craft a prompt tailored to your thesis needs. Consider starting points like:
+Craft a prompt tailored to your needs. Consider starting points like:
 1. Seeking guidance on a specific section of your thesis.
 1. Requesting tips on improving writing style or argumentation.
 1. Asking for assistance in structuring a particular chapter.
@@ -80,10 +76,10 @@ Craft a prompt tailored to your thesis needs. Consider starting points like:
 
 ### Step 3: Analyze and Refine
 
-Review the AI-generated guidance. Analyze how well it addresses your specific needs and whether it provides actionable insights. Use follow-up prompts to seek clarification or additional tips for refining your thesis.
+Analyze how well the responses address your specific needs and whether they provide actionable insights. Use follow-up prompts to seek clarification or additional tips for refining your thesis.
 
 ## Learning Perspectives
-By mastering the skill of using generative AI for thesis assistance, you gain valuable support in various aspects of academic writing. However, it's crucial to balance AI assistance with your own critical thinking and understanding of the subject matter.
+By mastering the skill of using generative AI for thesis assistance, you gain valuable support in various aspects of academic writing. However, it is crucial to balance AI assistance with your own critical thinking and understanding of the subject matter.
 
 ### Pros
 - **Guidance in Specific Areas:** Receive tailored assistance for your thesis needs.

@@ -1,6 +1,5 @@
 # Output Formatting
 
-## Importance of Output Formatting
 Specifying the desired format for responses is important in obtaining information or content that aligns with your presentation or usage preferences.
 
 When instructing the GAI, consider how you want the information structured, whether it's in paragraphs, bullet points, machine-readable content, or any other specific format.

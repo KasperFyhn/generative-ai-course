@@ -1,8 +1,10 @@
 # Using generative AI as a student
 
-The contents of this project are meant to serve as the basis for materials on using generative AI as a (university) student. Students can go through the contents in a self-enrollment course, or instructors can pick and choose from the modules and integrate them in teaching. 
+The contents of this project are meant to serve as the basis for materials on using generative AI as a (university) student. Specifically, the course is about text generative AI or chatbots backed by large language models, like ChatGPT and Bard.
 
 It is aimed at students at all levels and with different educational backgrounds. Whether a novice or an expert when it comes to using generative AI, the modules can help students discover ways to enchance their studies, refine their prompting skills and techniques, and guide them towards a healthy and responsible use of GAI.
+
+Students can go through the contents in a self-enrollment course, or instructors can pick and choose from the modules and integrate them in teaching. 
 
 The contents are created as short learning modules with a hands-on approach and are divided into three categories:
 1. **Use cases**: practical use cases - examples of _what_ you can do with GAI.

@@ -4,14 +4,14 @@
 
 In this module, we will explore how generative AI can serve as a valuable aid in data analysis, offering assistance in tasks ranging from exploratory data analysis to deriving meaningful insights from complex datasets.
 
-Data analysis involves examining, cleaning, transforming, and modeling data to discover useful information, draw conclusions, and support decision-making. Generative AI can play a role in facilitating these tasks, providing additional perspectives and aiding in the interpretation of data patterns.
+Data analysis involves examining, cleaning, transforming, and modeling data to discover useful information and draw conclusions. Generative AI can play a role in facilitating these tasks, providing additional perspectives and aiding in the interpretation of data patterns.
 
 ## Use-case
 
 Generative AI can assist in various aspects of data analysis, including:
 - **Data Cleaning:** Identify and handle missing or inconsistent data.
 - **Exploratory Data Analysis:** Generate visualizations and descriptive statistics to understand the dataset's characteristics.
-- **Feature Engineering:** Propose potential features or transformations to enhance model performance.
+- **Feature Engineering:** Propose potential features or transformations to improve the statistical model.
 - **Insight Generation:** Prompt the AI to provide insights based on specific queries about the dataset.
 
 Below is an example of using generative AI for exploratory data analysis:

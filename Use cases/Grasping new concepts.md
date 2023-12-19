@@ -9,7 +9,7 @@ Generative AI can aid in breaking down complex ideas into digestible pieces, mak
 
 An AI can serve as a tutor who does not tire from rephrasing explanations and does not lose patience.
 
-Below, an I was asked to explain _photosynthesis_.
+### Example
 
   **Prompt**: "Explain the concept of photosynthesis in simple terms."
 

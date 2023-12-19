@@ -12,7 +12,7 @@ Generative AI can provide feedback on various aspects of writing, including:
 - **Style and Tone:** Offer insights into refining writing style and maintaining a consistent tone.
 - **Content Organization:** Provide suggestions for organizing ideas and improving the structure of the text.
 
-Below is an example of using generative AI to get feedback on a paragraph:
+### Example
 
   **Prompt:** "Review the following paragraph and provide feedback on clarity and structure."
 

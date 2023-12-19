@@ -7,7 +7,7 @@ When faced with the task of brainstorming ideas for a project, essay, or researc
 
 Imagine having an AI companion that tirelessly suggests ideas, helps you explore different angles, and sparks creativity without the constraints of fatigue or time.
 
-Below, an AI was asked to generate ideas for a research topic related to artificial intelligence.
+### Example
 
 **Prompt**: "Generate ideas for a research topic in artificial intelligence."
 
@@ -19,7 +19,7 @@ Below, an AI was asked to generate ideas for a research topic related to artific
 >
 >4. **AI for Environmental Sustainability**: Delve into the contributions of artificial intelligence in addressing environmental issues, from optimizing resource management to predicting and mitigating the impact of climate change.
 
-**More elaborate prompt:** "Assist in brainstorming creative ideas on [specific topic] by providing innovative perspectives, potential solutions, and unique approaches."
+**More elaborate prompt:** "Assist in brainstorming creative ideas on [specific topic] by providing innovative perspectives and potential solutions."
 
 <details>
   <summary><b>More examples</b></summary>

@@ -3,11 +3,11 @@
 Generative AI proves to be a valuable tool for students seeking to enhance their problem-solving skills. In this module, we will explore how generative AI can assist you in breaking down complex problems into actionable steps, providing you with a systematic approach to tackle various challenges.
 
 ## Use-case
-When faced with a daunting problem, it can be overwhelming to know where to start. Generative AI serves as a virtual problem-solving guide, capable of breaking down intricate issues into manageable steps, offering clarity and direction.
+When faced with a daunting problem, it can be overwhelming to know where to start. Generative AI serves as a virtual problem-solving guide, capable of breaking down problems into manageable steps, offering clarity and direction.
 
-Imagine having an AI companion that helps you analyze problems, identify key components, and suggests practical steps towards a solution.
+Imagine having an AI companion that helps you analyze problems and suggests practical steps towards a solution.
 
-Below, an AI was asked to break down a complex problem related to data analysis.
+### Example
 
   **Prompt**: "Break down the problem of analyzing a large dataset for research."
 

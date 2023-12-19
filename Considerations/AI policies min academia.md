@@ -6,5 +6,3 @@ As a university student, you must keep yourself acquainted with current rules an
 
 
 ## Concerns and issues
-
-## 

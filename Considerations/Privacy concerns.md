@@ -13,7 +13,7 @@ A student uses a generative AI tool to write a personal essay about a difficult 
 In this case, there is a privacy concern because the AI tool could potentially store, process, or share the sensitive personal information inputted by the student.
 
 ## Why it is relevant
-Generative AI tools can be powerful aids in the learning process, but it’s important to be aware of privacy concerns. These tools often require input data to generate outputs. If this input data contains sensitive or personal information, it could potentially be stored, processed, or shared, leading to privacy concerns. Therefore, it’s crucial to use these tools responsibly and avoid inputting sensitive personal information.
+Generative AI tools can be powerful aids in the learning process, but it’s important to be aware of privacy concerns. These tools often require input data to generate outputs. If this input data contains sensitive or personal information, it could potentially be stored, processed, or shared, leading to privacy issues. Therefore, it’s crucial to use these tools responsibly and avoid inputting sensitive personal information.
 
 Remember, while generative AI can be a powerful tool for enhancing productivity, it’s essential to use it responsibly to protect your privacy.
 

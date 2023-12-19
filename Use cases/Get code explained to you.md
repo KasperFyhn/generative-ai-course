@@ -1,6 +1,6 @@
 # Get Code Explained to You
 
-Generative AI can be a powerful companion for students whn trying to understand and write code. In this module, we will explore how generative AI can assist you in comprehending code snippets, providing clear explanations and insights to enhance your programming skills.
+Generative AI can be a powerful companion for students when trying to understand and write code. In this module, we will explore how generative AI can assist you in comprehending code snippets, providing clear explanations and insights to enhance your programming skills.
 
 ## Use-case
 When faced with a piece of code, understanding the logic and functionality can be challenging. Generative AI acts as a virtual code interpreter, breaking down code snippets into digestible explanations and offering valuable insights into programming concepts.
@@ -63,8 +63,7 @@ Below, an AI was asked to explain a Python code snippet.
 >2. `5 * factorial(4)`: Recursively calls itself with `n = 4`.
 >3. `4 * factorial(3)`: Continues the recursion with `n = 3`.
 >4. `3 * factorial(2)`: Proceeds with `n = 2`.
->5. `2 * factorial(1)`: Further recursion with `n = 1`.
->6. `1 * factorial(0)`: Reaches the base case with `n = 0`.
+>5. `2 * factorial(1)`: Reaches the base case with `n = 1`.
 >7. Returns 1 (base case), and the recursion unwinds, calculating the final result.
 
 </details>

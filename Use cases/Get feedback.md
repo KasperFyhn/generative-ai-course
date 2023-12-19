@@ -2,7 +2,7 @@
 
 Writing is a fundamental skill in academia and beyond. In this module, we will explore how generative AI can be utilized to provide valuable feedback on writing, offering suggestions for improving clarity, coherence, and overall writing style.
 
-Writing is a dynamic process that involves not only the generation of ideas but also the articulation of those ideas in a clear and compelling manner. Generative AI can serve as a virtual writing assistant, offering constructive feedback to enhance the quality of written work.
+Writing is a dynamic process that involves not only the generation of ideas but also the articulation of those ideas in a clear and compelling manner. Generative AI can serve as a virtual writing assistant, offering constructive feedback from various perspectives to enhance the quality of written work.
 
 ## Use-case
 
@@ -23,6 +23,8 @@ Below is an example of using generative AI to get feedback on a paragraph:
 ### Step 1: Specify Feedback Objectives
 
 Clearly outline your objectives for seeking feedback. Whether it's improving sentence clarity, addressing grammatical issues, or refining writing style, having specific goals guides the AI in providing targeted feedback.
+
+Consider who is giving the feedback and from what perspective. This is an area where [role assignment](/Skills/Role%20assignment.md) can be highly relevant.
 
 ### Step 2: Craft Your Feedback Prompt
 

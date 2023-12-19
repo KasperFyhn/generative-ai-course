@@ -1,7 +1,6 @@
 # Style and Tone
 
-## Importance of Style and Tone
-Crafting prompts with the appropriate style and tone is essential for eliciting responses that align with your communication goals.
+Crafting prompts with the appropriate style and tone is important for eliciting responses that align with your communicative goals
 
 When interacting with a GAI, your choice of style and tone influences not only the clarity of the response but also the manner in which information is presented.
 

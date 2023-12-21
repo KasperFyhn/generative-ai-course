@@ -1,4 +1,4 @@
-# Get Help During YOur Thesis
+# Get Help During Your Thesis
 
 Generative AI can be a supportive tool in large projects, e.g. a semester project or a thesis. This module shows how generative AI can assist you in various aspects of a project, offering guidance, insights, and practical tips to enhance your academic writing experience.
 

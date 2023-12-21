@@ -18,9 +18,3 @@ Here, the AI processes sensitive information, which raises significant privacy c
 Generative AI, like any digital tool, interacts with data. When this data includes personal, sensitive, or confidential information, it poses a risk of unintended exposure or misuse. The privacy implications are not just about the data being stored, but also about how it is processed and who might have access to it, intentionally or accidentally.
 
 Generative AI does not distinguish between public and private information; it processes what it is given. It is the user's responsibility to ensure that their inputs do not compromise their privacy or that of others.
-
-## Practical exercises
-
-1. **Topic Analysis:** List several academic topics (e.g., historical events, scientific theories) and personal topics (e.g., diary entries, personal letters) and discuss the privacy implications of using AI with each.
-
-1. **Reflective Writing Exercise:** Use a generative AI to write a short piece on a public figure or event. Afterward, analyze the input to ensure no personal data was included. Reflect on how easy or difficult it was to maintain privacy.

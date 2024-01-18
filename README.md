@@ -2,7 +2,7 @@
 
 The contents of this project are meant to serve as the basis for materials on using generative AI as a (university) student. Specifically, the course is about text generative AI or chatbots backed by large language models, like ChatGPT and Bard.
 
-It is aimed at students at all levels and with different educational backgrounds. Whether a novice or an expert when it comes to using generative AI, the modules can help students discover ways to enchance their studies, refine their prompting skills and techniques, and guide them towards a healthy and responsible use of GAI.
+It is aimed at students at different levels and with different educational backgrounds. Whether a novice or intermediate when it comes to using generative AI, the modules can help students discover ways to enchance their studies, refine their prompting skills and techniques, and guide them towards a healthy and responsible use of GAI.
 
 The contents are not theory-heavy (and should not be), but should serve as practical guides and inspiration for integrating AI in your studies in a good way.
 
@@ -32,3 +32,15 @@ For instance, take a look at titles of modules in [Skills](/Skills/). Do the asp
 
 ### I am quite adept at using GAI already
 In that case, maybe there is not much for you to learn here, but others might be able to draw on your experience.
+
+----------
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
